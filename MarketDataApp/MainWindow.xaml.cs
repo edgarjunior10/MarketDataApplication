@@ -8,7 +8,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using MarketDataApp.Models;
+using MarketDataApp.Modelos;
 
 namespace MarketDataApp
 {
